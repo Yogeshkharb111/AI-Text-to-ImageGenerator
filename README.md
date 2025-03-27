@@ -1,3 +1,6 @@
+![Screenshot (1115)](https://github.com/user-attachments/assets/4c75efed-43a8-4cc7-bbea-618de1f8c838)
+![Screenshot 2025-03-28 033303](https://github.com/user-attachments/assets/dac60fd4-624a-4d39-a959-9286de6b73e5)
+![Screenshot 2025-03-28 033325](https://github.com/user-attachments/assets/813888b2-c730-4705-b316-4fef924d4974)
 # 🖼️ Stable Diffusion Text-to-Image Generator
 
 A simple and interactive **AI-Powered Text-to-Image Generator** built using Python, Stable Diffusion, and Tkinter. This app takes user prompts and generates high-quality images using the Stable Diffusion model.
